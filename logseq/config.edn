@@ -317,4 +317,5 @@
  :feature/enable-flashcards? false
  :feature/enable-journals? false
  :ui/show-brackets? false
+ :publishing/all-pages-public? true
  }
